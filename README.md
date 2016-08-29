@@ -10,4 +10,4 @@ How to use the region selector
 ![](https://raw.githubusercontent.com/lin-e/ColourBasedAutoClicker/master/Images/qxk9n3I.png)
 
 Proof of function
-![](https://raw.githubusercontent.com/lin-e/ColourBasedAutoClicker/master/Images/eDTzjuU.png)
+![](https://raw.githubusercontent.com/lin-e/ColourBasedAutoClicker/master/Images/eDTzjuI.png)
