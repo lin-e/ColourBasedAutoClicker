@@ -7,7 +7,7 @@ Found on [this thread] (https://leakforums.net/thread-773272)
 
 # Screenshot(s)
 How to use the region selector
-![](https://raw.githubusercontent.com/lin-e/ColourBasedAutoClicker/master/Images/qxk9n3l.png)
+![](https://raw.githubusercontent.com/lin-e/ColourBasedAutoClicker/master/Images/qxk9n3I.png)
 
 Proof of function
 ![](https://raw.githubusercontent.com/lin-e/ColourBasedAutoClicker/master/Images/eDTzjuU.png)
